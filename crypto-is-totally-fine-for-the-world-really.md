@@ -96,7 +96,7 @@ This is to facilitate approximately 40 transactions per second. Now we're next g
 
 ## How much energy does Visa consume?
 
-This article is getting very long, and I'm honestly having trouble finding a good estimate like we did with crypto. So let's go worst case and go with various crypto articles estimates.(ignoring the fact that back in 2017 BTC and ETH used a lot less electricity :smile:) This should give us a good target to estimate from.
+This article is getting very long, and I'm honestly having trouble finding a good estimate like we did with crypto. So let's go worst case and go with various crypto articles estimates.(ignoring the fact that back in 2017 BTC and ETH used a lot less electricity ;) ) This should give us a good target to estimate from.
 
 [estimate 1](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50): 100 TW/hr
 
