@@ -50,7 +50,7 @@ Here are some numbers for various merchants or crypto coins and their TPS:
 
 \* Bitcoin has the [lightning network](https://www.bitdegree.org/crypto/tutorials/lightning-network#how-does-the-lightning-network-work), which does greatly increase transaction speed (up to a claimed 10,000 tps) but this second layer still requires the base blockchain to function which is tied to the above speed.
 
-\** Ethereum is looking at launching (Ethereum 2.0)[https://ethereum.org/en/eth2/] which would significantly increase the throughput of the network, but I cannot find any dates closer than 2023 on when this would happen. It should happen, Proof of Stake (PoS) empirically has a lower net effect on the environment and energy consumed but until it happens I'm going to say it's 30 TPS.
+\** Ethereum is looking at launching [Ethereum 2.0](https://ethereum.org/en/eth2/) which would significantly increase the throughput of the network, but I cannot find any dates closer than 2023 on when this would happen. It should happen, Proof of Stake (PoS) empirically has a lower net effect on the environment and energy consumed but until it happens I'm going to say it's 30 TPS.
 
 The speeds we use for the coins will be maximum, and it has been found that TPS significantly slow down when the networks become "clogged."
 
