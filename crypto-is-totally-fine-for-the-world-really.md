@@ -1,3 +1,7 @@
+layout: page
+title: "crypto is totally fine for the world really"
+permalink: /crypto-is-totally-fine-for-the-world-really/
+
 ## Introduction
 
 A common refrain you hear from crypto enthusiasts is that crypo doesn't have a large carbon footprint or that the banks are just as bad. The purpose of this page is to accurately scope the size of electrical consumption of crypto and to see how it compares relative to the current financial industry's footprint.
