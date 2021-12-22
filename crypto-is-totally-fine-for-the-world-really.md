@@ -149,6 +149,8 @@ Please feel free to share ot people you're arguing with or help contribute!!
 
 * __But this isn't all of crypto, you cherry picked the worst coins! Here are some altcoins that are eco-friendly.__
   - I don't care about your altcoin. I picked the biggest movers in the space, and until they are unseated as the top coins or they significantly reduce their footprint my opinion will not change
+* __You didn't include Amex, Mastercard, etc!__
+  - Yep, if I did the ending chart would still be nearly identical. I used Visa as it's the banking protocol that pro crypto articles used and it's the one that had the most reliable data. Energy consumption is high, and we should reduce it where we can. We shouldn't add more waste for such a small gain in regards to transactions.
 * __But decentralization is important! You should use crypto for...__
   - Just because something is decentralized does not mean it's equitable or fair to everyone. I'm going to make a post on this later.
 * __Lightning Network doesn't work like that, it saves so much!__
