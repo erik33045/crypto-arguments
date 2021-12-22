@@ -39,11 +39,9 @@ Transactions are a big deal in terms of financial networks. They're basically th
 Here are some numbers for various merchants or crypto coins and their TPS
 1) [Visa](https://news.bitcoin.com/no-visa-doesnt-handle-24000-tps-and-neither-does-your-pet-blockchain/) - 1700 TPS
 
-2) [Mastercard](https://phemex.com/blogs/what-is-transactions-per-second-tps) - 5000 TPS (Claimed)
+2) [Bitcoin](https://thecryptowings.com/transactions-per-second-tps-in-crypto/) - 7 TPS*
 
-3) [Bitcoin](https://thecryptowings.com/transactions-per-second-tps-in-crypto/) - 7 TPS*
-
-4) [Etheruem](https://ethereum.stackexchange.com/questions/28666/whats-the-transaction-throughput-on-ethereum-how-fast-the-nodes-can-replicate) - 10-30 TPS**
+3) [Etheruem](https://ethereum.stackexchange.com/questions/28666/whats-the-transaction-throughput-on-ethereum-how-fast-the-nodes-can-replicate) - 10-30 TPS**
 
 
 \* Bitcoin has the [lightning network](https://www.bitdegree.org/crypto/tutorials/lightning-network#how-does-the-lightning-network-work), which does greatly increase transaction speed (up to a claimed 10,000 tps) but this second layer still requires the base blockchain to function which is tied to the above speed.
