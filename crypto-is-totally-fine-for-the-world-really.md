@@ -17,6 +17,7 @@ The [current market cap for crypto](https://coinmarketcap.com/) (basically how m
 
 At time of writing, here are the top 5 coins in order by market cap (this essentially shows how much equity used)
 
+
 1. Bitcoin - $927,825,526,790
 
 2. Ethereum -$478,338,031,267
