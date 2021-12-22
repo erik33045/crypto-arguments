@@ -16,11 +16,15 @@ The [current market cap for crypto](https://coinmarketcap.com/) (basically how m
 
 At time of writing, here are the top 5 coins in order by market cap (this essentially shows how much equity used)
 
-1) Bitcoin - $927,825,526,790
-2) Ethereum -$478,338,031,267
-3) Binance Coin - $88,995,809,060
-4) Tether - $76,259,754,569
-5) Solana -$57,225,840,195
+1. Bitcoin - $927,825,526,790
+
+2. Ethereum -$478,338,031,267
+
+3. Binance Coin - $88,995,809,060
+
+4. Tether - $76,259,754,569
+
+5. Solana -$57,225,840,195
 	
 These coins make up about 70% of all crypto investments, full stop. ((.927 + .478 + .088 + .076 +.057)/2.3)
 
@@ -34,8 +38,11 @@ Transactions are a big deal in terms of financial networks. They're basically th
 
 Here are some numbers for various merchants or crypto coins and their TPS
 1) [Visa](https://news.bitcoin.com/no-visa-doesnt-handle-24000-tps-and-neither-does-your-pet-blockchain/) - 1700 TPS
+
 2) [Mastercard](https://phemex.com/blogs/what-is-transactions-per-second-tps) - 5000 TPS (Claimed)
+
 3) [Bitcoin](https://thecryptowings.com/transactions-per-second-tps-in-crypto/) - 7 TPS*
+
 4) [Etheruem](https://ethereum.stackexchange.com/questions/28666/whats-the-transaction-throughput-on-ethereum-how-fast-the-nodes-can-replicate) - 10-30 TPS**
 
 
