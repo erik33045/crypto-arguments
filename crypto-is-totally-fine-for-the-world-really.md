@@ -15,8 +15,7 @@ When pulling estimates, I'll be erring on the side that benefits crypto so that 
 
 The [current market cap for crypto](https://coinmarketcap.com/) (basically how much money is in the space) is approximately 2.3 trillion dollars. This changes all the time, but it will give us a good starting point about what the most popular coins are and how much electricity is being consumed.
 
-At time of writing, here are the top 5 coins in order by market cap (this essentially shows how much equity used)
-
+At time of writing, here are the top 5 coins in order by market cap (this essentially shows how much equity used
 
 1. Bitcoin - $927,825,526,790
 
@@ -39,11 +38,12 @@ Transactions per second (called tps from now on) basically indicate how many ind
 Transactions are a big deal in terms of financial networks. They're basically the limit on how many things can happen, and how long you have to wait to pay someone or get paid. 
 
 Here are some numbers for various merchants or crypto coins and their TPS
-1) [Visa](https://news.bitcoin.com/no-visa-doesnt-handle-24000-tps-and-neither-does-your-pet-blockchain/) - 1700 TPS
 
-2) [Bitcoin](https://thecryptowings.com/transactions-per-second-tps-in-crypto/) - 7 TPS*
+1. [Visa](https://news.bitcoin.com/no-visa-doesnt-handle-24000-tps-and-neither-does-your-pet-blockchain/) - 1700 TPS
 
-3) [Etheruem](https://ethereum.stackexchange.com/questions/28666/whats-the-transaction-throughput-on-ethereum-how-fast-the-nodes-can-replicate) - 10-30 TPS**
+2. [Bitcoin](https://thecryptowings.com/transactions-per-second-tps-in-crypto/) - 7 TPS*
+
+3. [Etheruem](https://ethereum.stackexchange.com/questions/28666/whats-the-transaction-throughput-on-ethereum-how-fast-the-nodes-can-replicate) - 10-30 TPS**
 
 
 \* Bitcoin has the [lightning network](https://www.bitdegree.org/crypto/tutorials/lightning-network#how-does-the-lightning-network-work), which does greatly increase transaction speed (up to a claimed 10,000 tps) but this second layer still requires the base blockchain to function which is tied to the above speed.
