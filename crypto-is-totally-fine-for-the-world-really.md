@@ -143,9 +143,9 @@ This is the core of the argument, is this value we get from crypto worth the car
 
 ## Outro
 
-Thanks for reading this, I'm going to have some things that I'm guessing crypto bros will argue with and my responses. I'll talk more about decentralization in another post. 
+Thanks for reading this, I'm going to have some things at the that I'm guessing crypto bros will argue with and my responses to those points. I'll add more pages with different arguments as I can. 
 
-Please feel free to share or help contribute!!
+Please feel free to share ot people you're arguing with or help contribute!!
 
 ## Things I'm guessing people will have problems with
 
