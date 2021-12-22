@@ -15,7 +15,7 @@ When pulling estimates, I'll be erring on the side that benefits crypto so that 
 
 The [current market cap for crypto](https://coinmarketcap.com/) (basically how much money is in the space) is approximately 2.3 trillion dollars. This changes all the time, but it will give us a good starting point about what the most popular coins are and how much electricity is being consumed.
 
-At time of writing, here are the top 5 coins in order by market cap (this essentially shows how much equity used
+At time of writing, here are the top 5 coins in order by market cap:
 
 1. Bitcoin - $927,825,526,790
 
@@ -29,15 +29,17 @@ At time of writing, here are the top 5 coins in order by market cap (this essent
 	
 These coins make up about 70% of all crypto investments, full stop. ((.927 + .478 + .088 + .076 +.057)/2.3)
 
-The top 2 coins which I'll be focus on will be Bitcoin (BTC) and Ethereum (ETH) represent 61% ((.927+.478)/2.3) of all crypto in this space and I'll be assuming that they are 100% responsible for all the pollution so that in the best case all other crypto has no effect on electricity usage. People may balk at this because there are better coins than ETH or BTC, but we're picking the vast majority of where crypto wealth lies and where the lion's share of transactions are occurring.
+The top 2 coins which I'll be focusing on are Bitcoin (BTC) and Ethereum (ETH) which represent 61% ((.927+.478)/2.3) of all crypto investments and I'll be assuming that they are 100% responsible for all the pollution so that in the best case all other crypto has no effect on electricity usage. 
+
+People may balk at this because there are better coins than ETH or BTC, but we're picking the vast majority of where crypto wealth lies and where the lion's share of transactions are occurring.
 
 ## What are Transactions Per Second? (TPS)
 
 Transactions per second (called tps from now on) basically indicate how many individual trades or transfers that can happen in a second. If you and I were trading a baseball card and it took us two seconds, our speed would be 0.5 tps.
 
-Transactions are a big deal in terms of financial networks. They're basically the limit on how many things can happen, and how long you have to wait to pay someone or get paid. 
+Transactions are a big deal in terms of financial networks. They're basically the limit on how many things can happen and how long you have to wait to pay someone or get paid. 
 
-Here are some numbers for various merchants or crypto coins and their TPS
+Here are some numbers for various merchants or crypto coins and their TPS:
 
 1. [Visa](https://news.bitcoin.com/no-visa-doesnt-handle-24000-tps-and-neither-does-your-pet-blockchain/) - 1700 TPS
 
@@ -50,17 +52,17 @@ Here are some numbers for various merchants or crypto coins and their TPS
 
 \** Ethereum is looking at launching (Ethereum 2.0)[https://ethereum.org/en/eth2/] which would significantly increase the throughput of the network, but I cannot find any dates closer than 2023 on when this would happen. It should happen, Proof of Stake (PoS) empirically has a lower net effect on the environment and energy consumed but until it happens I'm going to say it's 30 TPS.
 
-The speeds we use for the coins will be maximum, and it has been found that TPS significantly slows down when the networks become "clogged."
+The speeds we use for the coins will be maximum, and it has been found that TPS significantly slow down when the networks become "clogged."
 
 ## Next steps
 
-Okay, so we now have how fast the networks "move" and now we want to focus on the yearly energy consumption for the above systems. To do this, we can use how much profit miners are getting. Once we understand this, we can work out how much energy is used to run these networks and correlate this to an approximate amount of pollution through burning coal, oil, or natural gas.
+Okay, so we now have how fast the networks "move" and now we want to focus on the yearly energy consumption for the above systems. To do this, we can use how much profit miners are getting. Once we understand this, we can work out how much energy is used to run these miners and correlate this to an approximate amount of pollution through burning coal, oil, or natural gas.
 
 ## Bitcoin energy cost needed
 
 So, without digging into how the blockchain [works](https://medium.com/swlh/the-bitcoin-blockchain-explained-b4529c78e6af) too deeply, you need computing power and electricity to make blocks on the chain. A helluva a lot of it. If you can manage to make a block, it can be quite lucrative.
 
-In 2021, a conservative [estimate](https://finbold.com/bitcoin-miners-earn-57-million-in-average-profits-daily/) of daily revenue from miners is about 50 million dollars. It ranges from the year between 40-60 million, so I'm splitting the difference.
+In 2021, a conservative [estimate](https://finbold.com/bitcoin-miners-earn-57-million-in-average-profits-daily/) of daily revenue from miners is about 50 million dollars. It ranges during the year between 40-60 million, so I'm splitting the difference.
 
 So we know about how much money miners make, but what do they spend proportionally on electricity? Well, this number is incredibly varied, but I'm going with the assumption of 50% based on [this](https://medium.com/capriole/bitcoins-production-cost-88d889462ea7#:~:text=%20From%20Cambridge%E2%80%99s%20electricity%20consumption%2C%20Bitcoin%E2%80%99s%20Production%20Cost,Electrical%20Cost%29%20%2F%20%28Daily%20Cost%20of...%20More%20) article and giving the miners some leeway on cost.
 
@@ -80,13 +82,13 @@ But before you crack your knuckles and write a response to me about "the financi
 
 percentage cost for electricity from above: 50%
 
-Electricity Cost per day = (70,000,000 * .5) = $30,000,000
+Electricity Cost per day = (70,000,000 * .5) = $35,000,000
 
 Electricity Cost per hour = $1,250,000
 
 [Kilowatt hour cost](https://digiconomist.net/ethereum-energy-consumption#:~:text=The%20only%20difference%20between%20the%20two%20indices%20is,that%20Ethereum%20runs%20Ethash%2C%20an%20%E2%80%9CASIC-resistant%E2%80%9D%20proof-of-work%20algorithm.) = $0.10 (this is more since ETH runs a different algorithim than BTC, see the link)
 
-1,250,000 / .10 = 12,500,000 kilowatts of electriticy per hour
+1,250,000 / .10 = 12,500,000 kilowatts of electricity per hour
 
 12,500,000 * 24 * 365 = 109,500,000,000 kilowatts per yer = 109.5 terawatts per year
 
@@ -103,7 +105,7 @@ This is to facilitate approximately 40 transactions per second. Now we're next g
 
 ## How much energy does Visa consume?
 
-This article is getting very long, and I'm honestly having trouble finding a good estimate like we did with crypto. So let's go worst case and go with various crypto articles estimates.(ignoring the fact that back in 2017 BTC and ETH used a lot less electricity ;) ) This should give us a good target to estimate from.
+This article is getting very long, and I'm honestly having trouble finding a good estimate like we did with crypto. So let's go worst case and go with various pro crypto articles estimates. (ignoring the fact that back in 2017 BTC and ETH used a lot less electricity ;) ) This should give us a good target to estimate from.
 
 [estimate 1](https://hackernoon.com/the-bitcoin-vs-visa-electricity-consumption-fallacy-8cf194987a50): 100 TW/hr
 
@@ -111,11 +113,11 @@ This article is getting very long, and I'm honestly having trouble finding a goo
 
 [estimate 3](https://www.ledger.com/energy-consumption-crypto-vs-fiat): 100 TW/hr
 
-So, we're getting a back of the napkin estimate to around similar to Ethereum. Oh no, what do we say about this? Is the argument destroyed? Am I a bitter "no-coiner" who doesn't see the future? Read on to find out.
+So, we're getting a back of the napkin estimate around the same amount as Ethereum. Oh no, what do we say about this? Is the argument destroyed? Am I a bitter "no-coiner" who doesn't see the future? Read on to find out.
 
 ## The section where my argument is not destroyed
 
-Some things to keep in mind as we go forward. Banking infrastructure does not suffer the same exponential growth problem that crypto does. It is a high number, yes. but that number grows linearly at best. This is the difference between something taking 100 years to go from 0-100 adding 1 every year vs taking 49 years to get there with exponential growth. (This is dependent on the growth rate which I put at 10%, don't @ me. If you want crypto to succeed, it'd be an exponential growth rate around 10% growth per year)
+Some things to keep in mind as we go forward. Banking infrastructure does not suffer the same exponential growth problem that crypto does. It is a high number, yes. but that number grows linearly at best, but nowhere close to the exponential curve the BTC and ETH have followed. This is the difference between something taking 100 years to go from 0-100 adding 1 every year vs taking 49 years to get there with exponential growth. (This is dependent on the growth rate which I put at 10%, don't @ me. If you want crypto to succeed, it'd be an exponential growth rate at least around 10% growth per year)
 
 See this pretty chart I didn't steal:
 
@@ -135,7 +137,7 @@ This is the contribution of each network to electricity consumption and by exten
 
 BTC and ETH combined take up about 75% of the electricity we calculated and contribute to around 2% of transactions.
 
-These crypto numbers will grow year after year, more and more tons of coal will be burnt to support this technology until something changes. The majority of all crypto mining for BTC and ETH currently happen in China for various reasons and China is one of the leading contributers for pollution and climate change due to their high dependence on coal and natural gas. 
+These crypto numbers will grow year after year, more and more tons of coal/natural gas will be burnt to support this technology until something changes. The majority of all crypto mining for BTC and ETH currently happen in China for various reasons and China is one of the leading contributers for pollution and climate change due to their high dependence on coal and natural gas. 
 
 This is the core of the argument, is this value we get from crypto worth the carbon released into the atmosphere?
 
