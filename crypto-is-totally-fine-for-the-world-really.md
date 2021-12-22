@@ -142,13 +142,13 @@ Please feel free to share or help contribute!!
 
 ## Things I'm guessing people will have problems with
 
-* But this isn't all of crypto, you cherry picked the worst coins! Here are some altcoins that are eco-friendly.
+* __But this isn't all of crypto, you cherry picked the worst coins! Here are some altcoins that are eco-friendly.__
   - I don't care about your altcoin. I picked the biggest movers in the space, and until they are unseated as the top coins or they significantly reduce their footprint my opinion will not change
-* But decentralization is important! You should use crypto for...
+* __But decentralization is important! You should use crypto for...__
   - Just because something is decentralized does not mean it's equitable or fair to everyone. I'm going to make a post on this later.
-* Lightning Network doesn't work like that, it saves so much!
+* __Lightning Network doesn't work like that, it saves so much!__
   - DYOR buddy, it does. It still requires the main blockchain and I really doubt miners will stop chasing profits to mine BTC and keep using the inefficient and slow backend to pump CO2 into the atmosphere
-* ETH 2.0 is coming soon, it will fix this!
+* __ETH 2.0 is coming soon, it will fix this!__
   - Eth 2.0 has been a few months away since at least 2017, if it comes..cool. Let's make all of crypto use less energy if we can. If that happens, I'll re-evaluate my position
-* You are wrong on your math!
+* __You are wrong on your math!__
   - I hope not, if I was I'll re-adjust. I think I was pretty fair with my estimates and variables trying to make a stronger case for crypto, but I'll change my opinion or my math depending on how incorrect I am. My estimates seem to match up with multiple independent sources I linked throughout the article.
